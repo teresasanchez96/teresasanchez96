@@ -26,7 +26,6 @@ Actualmente estoy trabajando en mi proyecto **Mascotas y Vacunas**, una aplicaci
 También he trabajado con:
 
 - 📱 Android nativo
-- 🎨 Jetpack Compose
 - 🌐 APIs REST
 - 🔌 Retrofit
 - 💾 Room
