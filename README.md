@@ -8,7 +8,7 @@ Soy estudiante de **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)**, i
 
 Durante mi formación he trabajado con **Kotlin, Java, Android, Jetpack Compose, Spring Boot, bases de datos y APIs REST**, desarrollando diferentes proyectos y aplicaciones.
 
-Actualmente estoy trabajando en mi proyecto **Mascotas y Vacunas**, una aplicación Android para gestionar mascotas y su historial de vacunación. 🐶🐱
+Actualmente estoy trabajando en mi proyecto **Mascotas y Vacunas**, una aplicación Android para gestionar mascotas y su historial de vacunación. 🐶🐱💉
 
 ---
 
@@ -30,7 +30,7 @@ También he trabajado con:
 - 🌐 APIs REST
 - 🔌 Retrofit
 - 💾 Room
-- 💉 Hilt
+- 🧩 Hilt
 - 🗄️ SQL y bases de datos
 
 ---
