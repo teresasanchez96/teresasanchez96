@@ -37,7 +37,7 @@ También he trabajado con:
 
 ## 📂 Mis proyectos
 
-### 🐾 [Mascotas y Vacunas](https://github.com/teresanchez96/Mascotas-Vacunas)
+### 🐾 [Mascotas y Vacunas](https://github.com/teresasanchez96/Mascotas-Vacunas)
 
 Aplicación Android desarrollada como proyecto de **Desarrollo de Aplicaciones Multiplataforma (DAM)** para gestionar la información de mascotas y sus vacunas.
 
